@@ -2,7 +2,7 @@
 A demonstration of a numerical method to prove the exponential stability of nonlinear high-dimensional discrete-time systems
 and to find positive invariant ellipsoids. It is related to the paper [Add a reference]
 There are two executable main files
-Dependencies: numpy, scipy, sympy, mathplotlib and codac
+Dependencies: numpy, scipy, sympy, matplotlib and codac
 
 ## main_guaranteed_computation.py
 
