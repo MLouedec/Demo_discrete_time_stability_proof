@@ -1,6 +1,6 @@
 # Demo_discrete_time_stability_proof
 A demonstration of a numerical method to prove the exponential stability of nonlinear high-dimensional discrete-time systems
-and to find positive invariant ellipsoids. It is related to the paper [Add a reference]
+and to find positive invariant ellipsoids. Link to related paper https://hal.science/hal-04465206v1
 There are two executable main files
 Dependencies: numpy, scipy, sympy, matplotlib and codac
 
